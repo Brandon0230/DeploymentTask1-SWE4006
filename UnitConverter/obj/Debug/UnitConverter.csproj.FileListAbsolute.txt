@@ -1,0 +1,6 @@
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\UnitConverter\bin\Debug\UnitConverter.dll
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\UnitConverter\bin\Debug\UnitConverter.pdb
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\UnitConverter\obj\Debug\UnitConverter.csproj.AssemblyReference.cache
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\UnitConverter\obj\Debug\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\UnitConverter\obj\Debug\UnitConverter.dll
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\UnitConverter\obj\Debug\UnitConverter.pdb
