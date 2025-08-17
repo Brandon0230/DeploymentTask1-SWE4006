@@ -1,0 +1,2 @@
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\UnitConverterWiX\bin\Debug\UnitConverterWiX.msi
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\UnitConverterWiX\bin\Debug\UnitConverterWiX.wixpdb

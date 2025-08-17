@@ -1,0 +1,3 @@
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\DTask\bin\Debug\DTask.exe
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\DTask\bin\Debug\Units.dll
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\DTask\bin\Debug\UnitConverter.dll
