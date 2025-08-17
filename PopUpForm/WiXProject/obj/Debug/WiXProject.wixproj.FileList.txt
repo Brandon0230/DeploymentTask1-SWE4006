@@ -1,0 +1,6 @@
+obj\Debug\Product.wixobj
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\PopUpForm\WiXProject\bin\Debug\WiXProject.msi
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\PopUpForm\WiXProject\bin\Debug\WiXProject.wixpdb
+obj\Debug\WiXProject.wixproj.BindContentsFileListnull.txt
+obj\Debug\WiXProject.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WiXProject.wixproj.BindBuiltOutputsFileListnull.txt

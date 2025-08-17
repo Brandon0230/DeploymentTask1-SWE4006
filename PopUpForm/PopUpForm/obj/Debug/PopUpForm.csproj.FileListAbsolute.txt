@@ -1,0 +1,11 @@
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\PopUpForm\PopUpForm\bin\Debug\PopUpForm.exe.config
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\PopUpForm\PopUpForm\bin\Debug\PopUpForm.exe
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\PopUpForm\PopUpForm\bin\Debug\PopUpForm.pdb
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\PopUpForm\PopUpForm\obj\Debug\PopUpForm.csproj.AssemblyReference.cache
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\PopUpForm\PopUpForm\obj\Debug\PopUpForm.PopUpForm.resources
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\PopUpForm\PopUpForm\obj\Debug\PopUpForm.Properties.Resources.resources
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\PopUpForm\PopUpForm\obj\Debug\PopUpForm.csproj.GenerateResource.cache
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\PopUpForm\PopUpForm\obj\Debug\PopUpForm.csproj.CoreCompileInputs.cache
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\PopUpForm\PopUpForm\obj\Debug\PopUpForm.exe
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\PopUpForm\PopUpForm\obj\Debug\PopUpForm.pdb
+C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\PopUpForm\PopUpForm\obj\Debug\PopUpForm.exe.config

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="Pop Up Form" Language="1033" Version="1.0.0.0" Manufacturer="Brandon Peters" UpgradeCode="a8259158-cf55-430e-8a8f-a6cb2fc2a827">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="PopUpForm" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="PopUpForm" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<!-- TODO: Remove the comments around this Component element and the ComponentRef below in order to add resources to this installer. -->
+			<Component Id="PopUpForm.exe" Guid="319C16DC-75F9-4DF3-8572-9D596A8BA80A">
+				<File Id="PopUpForm.exe" Name="PopUpForm.exe" Source="$(var.PopUpForm.TargetDir)PopUpForm.exe" KeyPath="yes">
+				</File>
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>
