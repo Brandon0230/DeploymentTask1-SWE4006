@@ -1,0 +1,2 @@
+MainPackage=C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\UnitConverterUWP\bin\AnyCPU\Debug\UnitConverterUWP_1.0.0.0_AnyCPU_Debug.appx
+SymbolPackage=C:\Users\bp186\OneDrive\Desktop\UNI 2025\Sem 2\SWE40006\Deployment Task 1\UnitConverterUWP\obj\Debug\Symbols\UnitConverterUWP_1.0.0.0_AnyCPU_Debug.appxsym
