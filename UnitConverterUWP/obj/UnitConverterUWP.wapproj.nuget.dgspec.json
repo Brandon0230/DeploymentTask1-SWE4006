@@ -1,0 +1,121 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bp186\\OneDrive\\Desktop\\UNI 2025\\Sem 2\\SWE40006\\Deployment Task 1\\UnitConverterUWP\\UnitConverterUWP.wapproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bp186\\OneDrive\\Desktop\\UNI 2025\\Sem 2\\SWE40006\\Deployment Task 1\\DTask\\DTask.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bp186\\OneDrive\\Desktop\\UNI 2025\\Sem 2\\SWE40006\\Deployment Task 1\\DTask\\DTask.csproj",
+        "projectName": "DTask",
+        "projectPath": "C:\\Users\\bp186\\OneDrive\\Desktop\\UNI 2025\\Sem 2\\SWE40006\\Deployment Task 1\\DTask\\DTask.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\bp186\\OneDrive\\Desktop\\UNI 2025\\Sem 2\\SWE40006\\Deployment Task 1\\UnitConverterUWP\\UnitConverterUWP.wapproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bp186\\OneDrive\\Desktop\\UNI 2025\\Sem 2\\SWE40006\\Deployment Task 1\\UnitConverterUWP\\UnitConverterUWP.wapproj",
+        "projectName": "UnitConverterUWP",
+        "projectPath": "C:\\Users\\bp186\\OneDrive\\Desktop\\UNI 2025\\Sem 2\\SWE40006\\Deployment Task 1\\UnitConverterUWP\\UnitConverterUWP.wapproj",
+        "packagesPath": "C:\\Users\\bp186\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bp186\\OneDrive\\Desktop\\UNI 2025\\Sem 2\\SWE40006\\Deployment Task 1\\UnitConverterUWP\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bp186\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net451"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.14393": {
+            "targetAlias": "net451",
+            "projectReferences": {
+              "C:\\Users\\bp186\\OneDrive\\Desktop\\UNI 2025\\Sem 2\\SWE40006\\Deployment Task 1\\DTask\\DTask.csproj": {
+                "projectPath": "C:\\Users\\bp186\\OneDrive\\Desktop\\UNI 2025\\Sem 2\\SWE40006\\Deployment Task 1\\DTask\\DTask.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1702"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "uap10.0.14393": {
+          "targetAlias": "net451",
+          "dependencies": {
+            "Microsoft.Windows.SDK.BuildTools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.26100.1742, )"
+            }
+          },
+          "imports": [
+            "netcoreapp3.1",
+            "netcoreapp3.0",
+            "netcoreapp2.0",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481",
+            "net10.0-windows10.0.26100"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
