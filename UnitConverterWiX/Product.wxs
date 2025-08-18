@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="Unit Converter" Language="1033" Version="1.0.0.0" Manufacturer="Brandon Peters" UpgradeCode="a8259158-cf55-430e-8a8f-a6cb2fc2a827">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="DTask" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="DTask" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<!-- TODO: Remove the comments around this Component element and the ComponentRef below in order to add resources to this installer. -->
+			<Component Id="DTask.exe" Guid="B50AB483-EB44-46D1-93BC-226E97249769">
+				<File Id="DTask.exe" Name="DTask.exe" Source="$(var.DTask.TargetDir)DTask.exe" KeyPath="yes">
+				</File>
+			</Component>
+			<Component Id="Units.dll" Guid="BEA66DFE-4F27-4E2A-8926-9919147A9EC7">
+				<File Id="Units.dll" Name="Units.dll" Source="$(var.DTask.TargetDir)Units.dll" KeyPath="yes">
+				</File>
+			</Component>
+			<Component Id="UnitConverter.dll" Guid="50FA07EB-1187-4766-8114-F1703866DA64">
+				<File Id="UnitConverter.dll" Name="UnitConverter.dll" Source="$(var.DTask.TargetDir)UnitConverter.dll" KeyPath="yes">
+				</File>
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>
